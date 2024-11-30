@@ -1,0 +1,7 @@
+C:\Users\evrim\Desktop\faktoriyel_hesaplama\faktoriyel_hesaplama\bin\Debug\faktoriyel_hesaplama.exe.config
+C:\Users\evrim\Desktop\faktoriyel_hesaplama\faktoriyel_hesaplama\bin\Debug\faktoriyel_hesaplama.exe
+C:\Users\evrim\Desktop\faktoriyel_hesaplama\faktoriyel_hesaplama\bin\Debug\faktoriyel_hesaplama.pdb
+C:\Users\evrim\Desktop\faktoriyel_hesaplama\faktoriyel_hesaplama\obj\Debug\faktoriyel_hesaplama.csproj.AssemblyReference.cache
+C:\Users\evrim\Desktop\faktoriyel_hesaplama\faktoriyel_hesaplama\obj\Debug\faktoriyel_hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\evrim\Desktop\faktoriyel_hesaplama\faktoriyel_hesaplama\obj\Debug\faktoriyel_hesaplama.exe
+C:\Users\evrim\Desktop\faktoriyel_hesaplama\faktoriyel_hesaplama\obj\Debug\faktoriyel_hesaplama.pdb
