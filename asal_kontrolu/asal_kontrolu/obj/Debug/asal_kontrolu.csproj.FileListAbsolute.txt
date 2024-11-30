@@ -1,0 +1,7 @@
+C:\Users\evrim\Desktop\asal_kontrolu\asal_kontrolu\bin\Debug\asal_kontrolu.exe.config
+C:\Users\evrim\Desktop\asal_kontrolu\asal_kontrolu\bin\Debug\asal_kontrolu.exe
+C:\Users\evrim\Desktop\asal_kontrolu\asal_kontrolu\bin\Debug\asal_kontrolu.pdb
+C:\Users\evrim\Desktop\asal_kontrolu\asal_kontrolu\obj\Debug\asal_kontrolu.csproj.AssemblyReference.cache
+C:\Users\evrim\Desktop\asal_kontrolu\asal_kontrolu\obj\Debug\asal_kontrolu.csproj.CoreCompileInputs.cache
+C:\Users\evrim\Desktop\asal_kontrolu\asal_kontrolu\obj\Debug\asal_kontrolu.exe
+C:\Users\evrim\Desktop\asal_kontrolu\asal_kontrolu\obj\Debug\asal_kontrolu.pdb
