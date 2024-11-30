@@ -1,0 +1,7 @@
+C:\Users\evrim\Desktop\dizi_eleman\dizi_eleman\bin\Debug\dizi_eleman.exe.config
+C:\Users\evrim\Desktop\dizi_eleman\dizi_eleman\bin\Debug\dizi_eleman.exe
+C:\Users\evrim\Desktop\dizi_eleman\dizi_eleman\bin\Debug\dizi_eleman.pdb
+C:\Users\evrim\Desktop\dizi_eleman\dizi_eleman\obj\Debug\dizi_eleman.csproj.AssemblyReference.cache
+C:\Users\evrim\Desktop\dizi_eleman\dizi_eleman\obj\Debug\dizi_eleman.csproj.CoreCompileInputs.cache
+C:\Users\evrim\Desktop\dizi_eleman\dizi_eleman\obj\Debug\dizi_eleman.exe
+C:\Users\evrim\Desktop\dizi_eleman\dizi_eleman\obj\Debug\dizi_eleman.pdb
