@@ -1,0 +1,7 @@
+C:\Users\evrim\Desktop\fibonacci_serisi\fibonacci_serisi\bin\Debug\fibonacci_serisi.exe.config
+C:\Users\evrim\Desktop\fibonacci_serisi\fibonacci_serisi\bin\Debug\fibonacci_serisi.exe
+C:\Users\evrim\Desktop\fibonacci_serisi\fibonacci_serisi\bin\Debug\fibonacci_serisi.pdb
+C:\Users\evrim\Desktop\fibonacci_serisi\fibonacci_serisi\obj\Debug\fibonacci_serisi.csproj.AssemblyReference.cache
+C:\Users\evrim\Desktop\fibonacci_serisi\fibonacci_serisi\obj\Debug\fibonacci_serisi.csproj.CoreCompileInputs.cache
+C:\Users\evrim\Desktop\fibonacci_serisi\fibonacci_serisi\obj\Debug\fibonacci_serisi.exe
+C:\Users\evrim\Desktop\fibonacci_serisi\fibonacci_serisi\obj\Debug\fibonacci_serisi.pdb
