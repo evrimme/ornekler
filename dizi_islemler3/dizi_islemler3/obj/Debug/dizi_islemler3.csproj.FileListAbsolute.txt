@@ -1,0 +1,7 @@
+C:\Users\evrim\Desktop\dizi_islemler3\dizi_islemler3\bin\Debug\dizi_islemler3.exe.config
+C:\Users\evrim\Desktop\dizi_islemler3\dizi_islemler3\bin\Debug\dizi_islemler3.exe
+C:\Users\evrim\Desktop\dizi_islemler3\dizi_islemler3\bin\Debug\dizi_islemler3.pdb
+C:\Users\evrim\Desktop\dizi_islemler3\dizi_islemler3\obj\Debug\dizi_islemler3.csproj.AssemblyReference.cache
+C:\Users\evrim\Desktop\dizi_islemler3\dizi_islemler3\obj\Debug\dizi_islemler3.csproj.CoreCompileInputs.cache
+C:\Users\evrim\Desktop\dizi_islemler3\dizi_islemler3\obj\Debug\dizi_islemler3.exe
+C:\Users\evrim\Desktop\dizi_islemler3\dizi_islemler3\obj\Debug\dizi_islemler3.pdb
