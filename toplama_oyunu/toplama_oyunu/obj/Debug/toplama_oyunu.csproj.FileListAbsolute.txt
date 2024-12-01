@@ -1,0 +1,7 @@
+C:\Users\evrim\Desktop\toplama_oyunu\toplama_oyunu\bin\Debug\toplama_oyunu.exe.config
+C:\Users\evrim\Desktop\toplama_oyunu\toplama_oyunu\bin\Debug\toplama_oyunu.exe
+C:\Users\evrim\Desktop\toplama_oyunu\toplama_oyunu\bin\Debug\toplama_oyunu.pdb
+C:\Users\evrim\Desktop\toplama_oyunu\toplama_oyunu\obj\Debug\toplama_oyunu.csproj.AssemblyReference.cache
+C:\Users\evrim\Desktop\toplama_oyunu\toplama_oyunu\obj\Debug\toplama_oyunu.csproj.CoreCompileInputs.cache
+C:\Users\evrim\Desktop\toplama_oyunu\toplama_oyunu\obj\Debug\toplama_oyunu.exe
+C:\Users\evrim\Desktop\toplama_oyunu\toplama_oyunu\obj\Debug\toplama_oyunu.pdb
