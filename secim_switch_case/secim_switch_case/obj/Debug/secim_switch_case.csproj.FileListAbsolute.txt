@@ -1,0 +1,7 @@
+C:\Users\evrim\Desktop\secim_switch_case\secim_switch_case\bin\Debug\secim_switch_case.exe.config
+C:\Users\evrim\Desktop\secim_switch_case\secim_switch_case\bin\Debug\secim_switch_case.exe
+C:\Users\evrim\Desktop\secim_switch_case\secim_switch_case\bin\Debug\secim_switch_case.pdb
+C:\Users\evrim\Desktop\secim_switch_case\secim_switch_case\obj\Debug\secim_switch_case.csproj.AssemblyReference.cache
+C:\Users\evrim\Desktop\secim_switch_case\secim_switch_case\obj\Debug\secim_switch_case.csproj.CoreCompileInputs.cache
+C:\Users\evrim\Desktop\secim_switch_case\secim_switch_case\obj\Debug\secim_switch_case.exe
+C:\Users\evrim\Desktop\secim_switch_case\secim_switch_case\obj\Debug\secim_switch_case.pdb

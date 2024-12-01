@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "secim_switch_case", "secim_switch_case\secim_switch_case.csproj", "{6B1D9D5F-677B-4F31-871D-6766C186220C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B1D9D5F-677B-4F31-871D-6766C186220C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B1D9D5F-677B-4F31-871D-6766C186220C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B1D9D5F-677B-4F31-871D-6766C186220C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B1D9D5F-677B-4F31-871D-6766C186220C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7508656-BE55-4592-97EB-865640E1E7A7}
+	EndGlobalSection
+EndGlobal
