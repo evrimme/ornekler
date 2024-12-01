@@ -1,0 +1,7 @@
+C:\Users\evrim\Desktop\rakamlar_toplami\rakamlar_toplami\bin\Debug\rakamlar_toplami.exe.config
+C:\Users\evrim\Desktop\rakamlar_toplami\rakamlar_toplami\bin\Debug\rakamlar_toplami.exe
+C:\Users\evrim\Desktop\rakamlar_toplami\rakamlar_toplami\bin\Debug\rakamlar_toplami.pdb
+C:\Users\evrim\Desktop\rakamlar_toplami\rakamlar_toplami\obj\Debug\rakamlar_toplami.csproj.AssemblyReference.cache
+C:\Users\evrim\Desktop\rakamlar_toplami\rakamlar_toplami\obj\Debug\rakamlar_toplami.csproj.CoreCompileInputs.cache
+C:\Users\evrim\Desktop\rakamlar_toplami\rakamlar_toplami\obj\Debug\rakamlar_toplami.exe
+C:\Users\evrim\Desktop\rakamlar_toplami\rakamlar_toplami\obj\Debug\rakamlar_toplami.pdb
