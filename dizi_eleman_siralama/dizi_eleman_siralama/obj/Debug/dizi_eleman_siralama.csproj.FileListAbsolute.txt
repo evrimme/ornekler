@@ -1,0 +1,7 @@
+C:\Users\evrim\Desktop\dizi_eleman_siralama\dizi_eleman_siralama\bin\Debug\dizi_eleman_siralama.exe.config
+C:\Users\evrim\Desktop\dizi_eleman_siralama\dizi_eleman_siralama\bin\Debug\dizi_eleman_siralama.exe
+C:\Users\evrim\Desktop\dizi_eleman_siralama\dizi_eleman_siralama\bin\Debug\dizi_eleman_siralama.pdb
+C:\Users\evrim\Desktop\dizi_eleman_siralama\dizi_eleman_siralama\obj\Debug\dizi_eleman_siralama.csproj.AssemblyReference.cache
+C:\Users\evrim\Desktop\dizi_eleman_siralama\dizi_eleman_siralama\obj\Debug\dizi_eleman_siralama.csproj.CoreCompileInputs.cache
+C:\Users\evrim\Desktop\dizi_eleman_siralama\dizi_eleman_siralama\obj\Debug\dizi_eleman_siralama.exe
+C:\Users\evrim\Desktop\dizi_eleman_siralama\dizi_eleman_siralama\obj\Debug\dizi_eleman_siralama.pdb
