@@ -1,0 +1,7 @@
+C:\Users\evrim\Desktop\aranan_sayi\aranan_sayi\bin\Debug\aranan_sayi.exe.config
+C:\Users\evrim\Desktop\aranan_sayi\aranan_sayi\bin\Debug\aranan_sayi.exe
+C:\Users\evrim\Desktop\aranan_sayi\aranan_sayi\bin\Debug\aranan_sayi.pdb
+C:\Users\evrim\Desktop\aranan_sayi\aranan_sayi\obj\Debug\aranan_sayi.csproj.AssemblyReference.cache
+C:\Users\evrim\Desktop\aranan_sayi\aranan_sayi\obj\Debug\aranan_sayi.csproj.CoreCompileInputs.cache
+C:\Users\evrim\Desktop\aranan_sayi\aranan_sayi\obj\Debug\aranan_sayi.exe
+C:\Users\evrim\Desktop\aranan_sayi\aranan_sayi\obj\Debug\aranan_sayi.pdb
