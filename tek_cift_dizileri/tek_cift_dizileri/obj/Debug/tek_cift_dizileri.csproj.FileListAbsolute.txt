@@ -1,0 +1,7 @@
+C:\Users\evrim\Desktop\tek_cift_dizileri\tek_cift_dizileri\bin\Debug\tek_cift_dizileri.exe.config
+C:\Users\evrim\Desktop\tek_cift_dizileri\tek_cift_dizileri\bin\Debug\tek_cift_dizileri.exe
+C:\Users\evrim\Desktop\tek_cift_dizileri\tek_cift_dizileri\bin\Debug\tek_cift_dizileri.pdb
+C:\Users\evrim\Desktop\tek_cift_dizileri\tek_cift_dizileri\obj\Debug\tek_cift_dizileri.csproj.AssemblyReference.cache
+C:\Users\evrim\Desktop\tek_cift_dizileri\tek_cift_dizileri\obj\Debug\tek_cift_dizileri.csproj.CoreCompileInputs.cache
+C:\Users\evrim\Desktop\tek_cift_dizileri\tek_cift_dizileri\obj\Debug\tek_cift_dizileri.exe
+C:\Users\evrim\Desktop\tek_cift_dizileri\tek_cift_dizileri\obj\Debug\tek_cift_dizileri.pdb
