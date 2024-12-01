@@ -1,0 +1,7 @@
+C:\Users\evrim\Desktop\kelime_dizisi\kelime_dizisi\bin\Debug\kelime_dizisi.exe.config
+C:\Users\evrim\Desktop\kelime_dizisi\kelime_dizisi\bin\Debug\kelime_dizisi.exe
+C:\Users\evrim\Desktop\kelime_dizisi\kelime_dizisi\bin\Debug\kelime_dizisi.pdb
+C:\Users\evrim\Desktop\kelime_dizisi\kelime_dizisi\obj\Debug\kelime_dizisi.csproj.AssemblyReference.cache
+C:\Users\evrim\Desktop\kelime_dizisi\kelime_dizisi\obj\Debug\kelime_dizisi.csproj.CoreCompileInputs.cache
+C:\Users\evrim\Desktop\kelime_dizisi\kelime_dizisi\obj\Debug\kelime_dizisi.exe
+C:\Users\evrim\Desktop\kelime_dizisi\kelime_dizisi\obj\Debug\kelime_dizisi.pdb
