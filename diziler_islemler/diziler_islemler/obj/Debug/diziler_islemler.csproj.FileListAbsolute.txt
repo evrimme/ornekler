@@ -1,0 +1,7 @@
+C:\Users\evrim\Desktop\diziler_islemler\diziler_islemler\bin\Debug\diziler_islemler.exe.config
+C:\Users\evrim\Desktop\diziler_islemler\diziler_islemler\bin\Debug\diziler_islemler.exe
+C:\Users\evrim\Desktop\diziler_islemler\diziler_islemler\bin\Debug\diziler_islemler.pdb
+C:\Users\evrim\Desktop\diziler_islemler\diziler_islemler\obj\Debug\diziler_islemler.csproj.AssemblyReference.cache
+C:\Users\evrim\Desktop\diziler_islemler\diziler_islemler\obj\Debug\diziler_islemler.csproj.CoreCompileInputs.cache
+C:\Users\evrim\Desktop\diziler_islemler\diziler_islemler\obj\Debug\diziler_islemler.exe
+C:\Users\evrim\Desktop\diziler_islemler\diziler_islemler\obj\Debug\diziler_islemler.pdb
